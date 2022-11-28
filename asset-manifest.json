@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shaikhmd007.github.io/csb-zpy6we/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://shaikhmd007.github.io/csb-zpy6we/static/js/main.e8db4cf9.chunk.js",
+    "main.js.map": "https://shaikhmd007.github.io/csb-zpy6we/static/js/main.e8db4cf9.chunk.js.map",
+    "runtime-main.js": "https://shaikhmd007.github.io/csb-zpy6we/static/js/runtime-main.3e09a941.js",
+    "runtime-main.js.map": "https://shaikhmd007.github.io/csb-zpy6we/static/js/runtime-main.3e09a941.js.map",
+    "static/js/2.b9b26f43.chunk.js": "https://shaikhmd007.github.io/csb-zpy6we/static/js/2.b9b26f43.chunk.js",
+    "static/js/2.b9b26f43.chunk.js.map": "https://shaikhmd007.github.io/csb-zpy6we/static/js/2.b9b26f43.chunk.js.map",
+    "index.html": "https://shaikhmd007.github.io/csb-zpy6we/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://shaikhmd007.github.io/csb-zpy6we/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.b9b26f43.chunk.js.LICENSE.txt": "https://shaikhmd007.github.io/csb-zpy6we/static/js/2.b9b26f43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e09a941.js",
+    "static/js/2.b9b26f43.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.e8db4cf9.chunk.js"
+  ]
+}
